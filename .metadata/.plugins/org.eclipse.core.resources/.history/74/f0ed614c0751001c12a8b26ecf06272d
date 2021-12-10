@@ -1,0 +1,19 @@
+/**Programa que solicite introducir un correo electronico hasta que sea valido.
+ * 
+ */
+
+/**
+ * @author Ivan Vicente
+ *
+ */
+public class ejercicio4examen {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+
+	}
+
+}
